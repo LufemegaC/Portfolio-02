@@ -319,16 +319,16 @@ html{
 
 @keyframes javascript{
     0%{width: 0%;}
-    100%{width: 45%;}
+    100%{width: 75%;}
 }
 
 /* HTML&CSS*/
-.skills .skill .HTMLCSS{
+.skills .skill .WEBAdic{
     width: 0%;
-    animation: 2s HTMLCSS forwards;
+    animation: 2s WEBAdic forwards;
 }
 
-@keyframes HTMLCSS{
+@keyframes WEBAdic{
     0%{width: 0%;}
     100%{width: 70%;}
 }
@@ -342,7 +342,7 @@ html{
 
 @keyframes NET{
     0%{width: 0%;}
-    100%{width: 60%;}
+    100%{width: 75%;}
 }
 
 
@@ -366,7 +366,7 @@ html{
 
 @keyframes Pascal{
     0%{width: 0%;}
-    100%{width: 85%;}
+    100%{width: 90%;}
 }
 
 
@@ -378,7 +378,7 @@ html{
 
 @keyframes English{
     0%{width: 0%;}
-    100%{width: 80%;}
+    100%{width: 85%;}
 }
 
 /* PROFESSIONAL SKILLS*/
